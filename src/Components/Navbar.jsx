@@ -48,7 +48,7 @@ function Navbar() {
     return (
         <Wrap>
             <Container>
-                <Logo href='/'>
+                <Logo href='/Clone-Colco'>
                     <img src='https://colco.app/image/logo/sitelogo.png' alt='' style={{width:"160px",height:"fit-content",cursor:"pointer"}}/>
                 </Logo>
                 <NavItemContainer>
