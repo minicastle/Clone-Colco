@@ -53,19 +53,19 @@ function Navbar() {
                 </Logo>
                 <NavItemContainer>
                     <NavItems>
-                        <TagA href='/Startups'>Startups</TagA>
+                        <TagA href='https://www.colco.app/sell-business-service.html'>Startups</TagA>
                     </NavItems>
                     <NavItems>
-                        <TagA href='/Creaters'>Creators</TagA>
+                        <TagA href='https://www.colco.app/sell-digital-content.html'>Creators</TagA>
                     </NavItems>
                     <NavItems>
-                        <TagA href='/Recruiters'>Recruiters</TagA>
+                        <TagA href='https://www.colco.app/hire-employees-freelancers.html'>Recruiters</TagA>
                     </NavItems>
                     <NavItems>
-                        <TagA href='/Freelancers'>Freelancers</TagA>
+                        <TagA href='https://www.colco.app/intern-jobseekers-freelancer.html'>Freelancers</TagA>
                     </NavItems>
                     <NavItems>
-                        <TagA href='/Marketers'>Marketers</TagA>
+                        <TagA href='https://www.colco.app/market-product-services.html'>Marketers</TagA>
                     </NavItems>
                 </NavItemContainer>
             </Container>
