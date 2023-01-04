@@ -18,13 +18,13 @@ function App() {
     <div>
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={
-            <Container>
-              <Navbar/>
-              <HomePage/>
-              <Footer/>
-            </Container>
-          }/>
+            <Route path="/Clone-Colco" element={
+              <Container>
+                <Navbar/>
+                <HomePage/>
+                <Footer/>
+              </Container>
+            }/>
             <Route path="/Startups" element={<div>startups</div>}/>
             <Route path="/Creaters" element={<div>Creaters</div>}/>
             <Route path="/Recruiters" element={<div>Recruiters</div>}/>
