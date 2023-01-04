@@ -2,18 +2,25 @@
   "name": "colco",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://minicastle.github.io/Clone-Colco",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.5.0",
     "react-scripts": "5.0.1",
+    "serve": "^14.1.2",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy-git":"gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -34,5 +41,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.0",
+    "gh-pages": "^4.0.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
