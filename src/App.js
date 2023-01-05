@@ -25,11 +25,6 @@ function App() {
                 <Footer/>
               </Container>
             }/>
-            <Route path="/Clone-Colco/Startups" element={<div>startups</div>}/>
-            <Route path="/Creaters" element={<div>Creaters</div>}/>
-            <Route path="/Recruiters" element={<div>Recruiters</div>}/>
-            <Route path="/Freelancers" element={<div>Freelancers</div>}/>
-            <Route path="/Marketers" element={<div>Marketers</div>}/>
           </Routes>
         </BrowserRouter>
     </div>

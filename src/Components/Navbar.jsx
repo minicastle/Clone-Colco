@@ -53,7 +53,7 @@ function Navbar() {
                 </Logo>
                 <NavItemContainer>
                     <NavItems>
-                        <TagA href='/Clone-Colco/Startups'>Startups</TagA>
+                        <TagA href='https://www.colco.app/sell-business-service.html'>Startups</TagA>
                     </NavItems>
                     <NavItems>
                         <TagA href='https://www.colco.app/sell-digital-content.html'>Creators</TagA>
