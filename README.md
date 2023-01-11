@@ -62,14 +62,16 @@
 > 때문에 <br>max-display를 지정하거나 @media같은 스타일 컴포넌트를 이용하여 다양한 화면에도 대응할수 있었다면 사용자의 입장에서도 이 어플리케이션이 가지는 이점을 보기 편하고 믿을수 있다는 생각이 들수 있다고 생각합니다. <br>
 ---
 ### ◤ 정성민의 다른 프로젝트 ◢
-> 1. [포트폴리오](https://minicastle.github.io/portpolio/)
-> 2. [Colco(Clone)](https://minicastle.github.io/Clone-Colco/) - [원본](https://colco.app/)
-> 3. [Jolly-Flow(Clone)](https://minicastle.github.io/Clone-JollyFlow/) - [원본](https://jollyflow.webflow.io/)
-> 4. [kakao(Clone)](https://minicastle.github.io/Clone-Kakao/) - [원본](https://www.kakaocorp.com/page/)
+| Project Name              | Source Code           | Original Site             |
+| :--                       | :--:                  | :--                       |
+|[포트폴리오](https://minicastle.github.io/portpolio/)|||
+|[Colco(Clone)](https://minicastle.github.io/Clone-Colco/)|[git](https://github.com/minicastle/Clone-Colco)|[Colco(origin)](https://colco.app/)|
+|[Jolly-Flow(Clone)](https://minicastle.github.io/Clone-JollyFlow/)|[git](https://github.com/minicastle/Clone-JollyFlow)|[Jolly-Flow(origin)](https://jollyflow.webflow.io/)|
+|[kakao(Clone)](https://minicastle.github.io/Clone-Kakao/)|[git](https://github.com/minicastle/Clone-kakao)|[kakao(origin)](https://www.kakaocorp.com/page/)|
 
-- [정성민의 GitHub](https://github.com/minicastle)
+> [정성민의 GitHub](https://github.com/minicastle)
 
-### 이메일 링크: <minicastle@kakao.com>
+> ### 이메일 링크: <minicastle@kakao.com>
 ---
 ## ※개발에 사용된 언어 및 npm package※
 ---
