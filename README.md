@@ -60,6 +60,10 @@
 >### 반응형 웹페이지의 반응형태 부족
 > - 최근 다양한 형태의 디스플레이가 나오고 있습니다. 예를 들어 삼성의 갤럭시 폴드와 와이드 모니터는 기존에 없던 비율의 디스플레이 입니다.  
 > 때문에 <br>max-display를 지정하거나 @media같은 스타일 컴포넌트를 이용하여 다양한 화면에도 대응할수 있었다면 사용자의 입장에서도 이 어플리케이션이 가지는 이점을 보기 편하고 믿을수 있다는 생각이 들수 있다고 생각합니다. <br>
+
+<img src="./readmeimage/crop test.png" width=400px>
+<img src="./readmeimage/phone test.png" width=400px>
+
 ---
 ### ◤ 정성민의 다른 프로젝트 ◢
 | Project Name              | Source Code           | Original Site             |
