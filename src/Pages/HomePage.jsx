@@ -93,6 +93,7 @@ const Title = styled.div`
 const VideoContainer = styled.div`
     display: flex;
     width: 100%;
+    max-width: 1100px;
     justify-content: center;
     align-items: center;
     padding: 100px;
